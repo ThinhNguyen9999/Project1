@@ -1,1 +1,2 @@
-var a=10
+var a=12
+var m=3
